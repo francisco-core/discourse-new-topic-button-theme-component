@@ -13,4 +13,4 @@ New_topic_button_title:
 Hide_default_button:
   default: true
   description:
-    en: Hide the default "New topic" button in topic lists?
+    en: Show only standard "New topic" button in topic lists
